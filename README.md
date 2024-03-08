@@ -48,7 +48,6 @@
   <img width="12" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   </div>
-  <br>
   <h3>Database</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
@@ -72,10 +71,12 @@
 
 ###
 
+<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeevith-u&theme=2077" alt="jeevith-u" /></p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeevith-u&show_icons=true&locale=en&layout=compact" alt="jeevith-u" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeevith-u&show_icons=true&locale=en" alt="jeevith-u" /></p>
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeevith-u&theme=2077" alt="jeevith-u" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeevith-u&" alt="jeevith-u" /></p>
+
 ###
