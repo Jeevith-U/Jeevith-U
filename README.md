@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeevith</h1>
-<h3 align="center">I am a Energetic Developer from India and Enthusiastic to learn about new technology and always ready to code</h3>
+<h3 align="center">Hey there, this is Jeevith I am Software Developer. What do I do? Well I build Applications And Software. What do I use 🧐? Check out the thing below👇🏻</h3>
 
 - 🌱 I’m currently learning **Docker, Kubernetes, AWS**
 
@@ -7,11 +7,8 @@
 
 - 📫 How to reach me **jeevith367@gmail.com**
 
-- 📄 Know about my experiences : <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+- 📄 Know about my experiences : <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="25" alt="linkedin logo"  />
 
-<div align="right">
-  <img height="200" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"  />
-</div>
 
 ###
 
@@ -93,10 +90,10 @@
 
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeevith-u&theme=2077" alt="jeevith-u" /></p>
 
+<p><img img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeevith-u&show_icons=true&locale=en&layout=compact" alt="jeevith-u" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeevith-u&show_icons=true&locale=en&layout=compact" alt="jeevith-u" /></p>
-<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeevith-u&theme=2077" alt="jeevith-u" /></p>
+<p><img<img align="right" width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeevith-u&theme=2077" alt="jeevith-u" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeevith-u&" alt="jeevith-u" /></p>
+<p><img img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=jeevith-u&" alt="jeevith-u" /></p>
 
 ###
