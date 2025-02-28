@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jeevith367@gmail.com**
 
-- 📄 Know about my experiences : <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="25" alt="linkedin logo"  />
+- 📄 Know about my experiences : <a href="https://www.linkedin.com/in/jeevith-u-14b9621a4/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="25" alt="linkedin logo"  /> </a>
 
 ###
 <div><h3>Do I Write? Check This Out : <a href = "https://www.notion.so/Java-Notes-e80171efd8ac46a5a69afd308bbfcf64?pvs=4">Java</a></h3></div>
